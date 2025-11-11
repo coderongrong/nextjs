@@ -1,7 +1,7 @@
 export default function Hello() {
   return (
     <div>
-      @hello 插槽
+      @slotpage
     </div>
   );
 }
