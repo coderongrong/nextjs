@@ -6,6 +6,7 @@ export const metadata: Metadata = {
 };
 
 export default function Test() {
+  console.log("Test page");
   return (
     <div>
       Test -- 
